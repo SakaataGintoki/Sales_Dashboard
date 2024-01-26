@@ -3,8 +3,8 @@ Sales Dashboard in a country
 # Overview
 This dataset is Sales Data in a particular Country with Total Sales and Profit. we used Power BI Desktop to Visualize to understand the data more in depth.
 # Tables of content
-Prerequisites
-Dataset
+Prerequisites,
+Dataset,
 Power BI Visualization
 # Prerequisites
 Before running the File, make sure you have the following tools installed:
